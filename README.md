@@ -1,5 +1,5 @@
 # English_Alphabet
-- An Augmented Reality App which is based on English Alphabet and show the 3d objects related to each letters.
+- An Augmented Reality App which is based on English Alphabet and show the 3d objects related to the custom  markers
 
 - It create a more engaging learning atmosphere With such an ecosystem, students become more engaged in their learning that will ultimately boost the number of students in School.
 - It will help students to understand the shape and size of different things which is better and faster.
