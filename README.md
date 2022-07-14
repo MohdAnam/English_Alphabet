@@ -1,9 +1,7 @@
 # English_Alphabet
 - An Augmented Reality App which is based on English Alphabet and emerge the 3d objects related to the custom  markers
-- 	Children today can be taught better with immersive technology that is available namely “Augmented Reality”.
-- This app helps children to use tablets or mobile phones  on markers where objects emerge from the markers as children place the camera on it. 
 - Children today can be taught better with immersive technology that is available namely “Augmented Reality”.
-- This app helps children to use tablets or mobile phones  on markers where objects emerge from the markers as children place the camera on it.
+- This app helps children to use tablets or mobile phones  on markers where objects emerge from the markers as children place the camera on it. 
 - It create a more engaging learning atmosphere With such an ecosystem, students become more engaged in their learning that will ultimately boost the number of students in School.
 - It will help students to understand the shape and size of different things which is better and faster.
 
