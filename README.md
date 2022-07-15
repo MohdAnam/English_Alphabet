@@ -44,12 +44,13 @@
  
  # Testing
  We worked with students and teachers of CSC Bal Vidyalaya to test the prototype apps and collected the feedback to improve the prototypes.
+ The students found the app very intersting.
  <table>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/98106477/178924471-ed4f46eb-2619-4084-b956-b914f48ca749.jpg"  width="400" height="400">
+<td><img src="https://user-images.githubusercontent.com/98106477/178924471-ed4f46eb-2619-4084-b956-b914f48ca749.jpg"  width="370" height="400">
 </td>
   
-  <td><img src="https://user-images.githubusercontent.com/98106477/178924545-5c56ea9e-aaac-4cbd-b91c-3a257a93d0d9.jpg"  width="700" height="400">
+  <td><img src="https://user-images.githubusercontent.com/98106477/178924545-5c56ea9e-aaac-4cbd-b91c-3a257a93d0d9.jpg"  width="800" height="400">
 </td>
 </tr>
 </table>
